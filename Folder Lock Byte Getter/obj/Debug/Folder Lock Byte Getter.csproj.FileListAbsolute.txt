@@ -1,0 +1,37 @@
+G:\資料\C語言編輯器\新文件\Folder Locker\Folder Lock Byte Getter\Folder Lock Byte Getter\bin\Debug\Folder Lock Byte Getter.exe.config
+G:\資料\C語言編輯器\新文件\Folder Locker\Folder Lock Byte Getter\bin\Debug\Folder Lock Byte Getter.exe.config
+G:\資料\C語言編輯器\新文件\Folder Locker\Folder Lock Byte Getter\obj\Debug\Folder Lock Byte Getter.csprojResolveAssemblyReference.cache
+G:\資料\C語言編輯器\新文件\Folder Locker\Folder Lock Byte Getter\obj\Debug\Folder_Lock_Byte_Getter.Form1.resources
+G:\資料\C語言編輯器\新文件\Folder Locker\Folder Lock Byte Getter\obj\Debug\Folder_Lock_Byte_Getter.Properties.Resources.resources
+G:\資料\C語言編輯器\新文件\Folder Locker\Folder Lock Byte Getter\obj\Debug\Folder Lock Byte Getter.csproj.GenerateResource.Cache
+G:\資料\C語言編輯器\新文件\Folder Locker\Folder Lock Byte Getter\bin\Debug\Folder Lock Byte Getter.exe
+G:\資料\C語言編輯器\新文件\Folder Locker\Folder Lock Byte Getter\bin\Debug\Folder Lock Byte Getter.pdb
+G:\資料\C語言編輯器\新文件\Folder Locker\Folder Lock Byte Getter\obj\Debug\Folder Lock Byte Getter.exe
+G:\資料\C語言編輯器\新文件\Folder Locker\Folder Lock Byte Getter\obj\Debug\Folder Lock Byte Getter.pdb
+G:\資料\C語言編輯器\新文件\Folder Locker\Folder Lock Byte Getter\bin\Debug\Folder Locker.exe
+G:\資料\C語言編輯器\新文件\Folder Locker\Folder Lock Byte Getter\bin\Debug\Folder Locker.pdb
+H:\資料\C語言編輯器\新文件\Folder Locker\Folder Lock Byte Getter\bin\Debug\Folder Lock Byte Getter.exe.config
+H:\資料\C語言編輯器\新文件\Folder Locker\Folder Lock Byte Getter\obj\Debug\Folder Lock Byte Getter.exe
+H:\資料\C語言編輯器\新文件\Folder Locker\Folder Lock Byte Getter\obj\Debug\Folder Lock Byte Getter.pdb
+H:\資料\C語言編輯器\新文件\Folder Locker\Folder Lock Byte Getter\bin\Debug\Folder Lock Byte Getter.exe
+H:\資料\C語言編輯器\新文件\Folder Locker\Folder Lock Byte Getter\bin\Debug\Folder Lock Byte Getter.pdb
+H:\資料\C語言編輯器\新文件\Folder Locker\Folder Lock Byte Getter\bin\Debug\Folder Locker.exe
+H:\資料\C語言編輯器\新文件\Folder Locker\Folder Lock Byte Getter\bin\Debug\Folder Locker.pdb
+H:\資料\C語言編輯器\新文件\Folder Locker\Folder Lock Byte Getter\obj\Debug\Folder Lock Byte Getter.csprojResolveAssemblyReference.cache
+H:\資料\C語言編輯器\新文件\Folder Locker\Folder Lock Byte Getter\obj\Debug\Folder_Lock_Byte_Getter.Form1.resources
+H:\資料\C語言編輯器\新文件\Folder Locker\Folder Lock Byte Getter\obj\Debug\Folder_Lock_Byte_Getter.Properties.Resources.resources
+H:\資料\C語言編輯器\新文件\Folder Locker\Folder Lock Byte Getter\obj\Debug\Folder Lock Byte Getter.csproj.GenerateResource.Cache
+F:\資料\C語言編輯器\新文件\Folder Locker\Folder Lock Byte Getter\bin\Debug\Folder Lock Byte Getter.exe.config
+F:\資料\C語言編輯器\新文件\Folder Locker\Folder Lock Byte Getter\obj\Debug\Folder Lock Byte Getter.exe
+F:\資料\C語言編輯器\新文件\Folder Locker\Folder Lock Byte Getter\obj\Debug\Folder Lock Byte Getter.pdb
+F:\資料\C語言編輯器\新文件\Folder Locker\Folder Lock Byte Getter\bin\Debug\Folder Lock Byte Getter.exe
+F:\資料\C語言編輯器\新文件\Folder Locker\Folder Lock Byte Getter\bin\Debug\Folder Lock Byte Getter.pdb
+F:\資料\C語言編輯器\新文件\Folder Locker\Folder Lock Byte Getter\bin\Debug\Folder Locker.exe
+F:\資料\C語言編輯器\新文件\Folder Locker\Folder Lock Byte Getter\bin\Debug\Folder Locker.pdb
+F:\資料\C語言編輯器\新文件\Folder Locker\Folder Lock Byte Getter\obj\Debug\Folder Lock Byte Getter.csprojResolveAssemblyReference.cache
+F:\資料\C語言編輯器\新文件\Folder Locker\Folder Lock Byte Getter\obj\Debug\Folder_Lock_Byte_Getter.Form1.resources
+F:\資料\C語言編輯器\新文件\Folder Locker\Folder Lock Byte Getter\obj\Debug\Folder_Lock_Byte_Getter.Properties.Resources.resources
+F:\資料\C語言編輯器\新文件\Folder Locker\Folder Lock Byte Getter\obj\Debug\Folder Lock Byte Getter.csproj.GenerateResource.Cache
+M:\資料\C語言編輯器\新文件\Folder Locker\Folder Lock Byte Getter\bin\Debug\Folder Lock Byte Getter.exe.config
+M:\資料\C語言編輯器\新文件\Folder Locker\Folder Lock Byte Getter\obj\Debug\Folder Lock Byte Getter.exe
+M:\資料\C語言編輯器\新文件\Folder Locker\Folder Lock Byte Getter\obj\Debug\Folder Lock Byte Getter.pdb

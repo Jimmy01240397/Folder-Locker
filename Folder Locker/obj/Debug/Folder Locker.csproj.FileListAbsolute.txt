@@ -1,0 +1,48 @@
+c:\users\user\documents\visual studio 2013\Projects\Folder Locker\Folder Locker\bin\Debug\Folder Locker.exe
+c:\users\user\documents\visual studio 2013\Projects\Folder Locker\Folder Locker\bin\Debug\Folder Locker.pdb
+c:\users\user\documents\visual studio 2013\Projects\Folder Locker\Folder Locker\obj\Debug\Folder Locker.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2013\Projects\Folder Locker\Folder Locker\obj\Debug\Folder_Locker.Form1.resources
+c:\users\user\documents\visual studio 2013\Projects\Folder Locker\Folder Locker\obj\Debug\Folder_Locker.Properties.Resources.resources
+c:\users\user\documents\visual studio 2013\Projects\Folder Locker\Folder Locker\obj\Debug\Folder Locker.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2013\Projects\Folder Locker\Folder Locker\obj\Debug\Folder Locker.exe
+c:\users\user\documents\visual studio 2013\Projects\Folder Locker\Folder Locker\obj\Debug\Folder Locker.pdb
+G:\資料\C語言編輯器\新文件\Folder Locker\Folder Locker\obj\Debug\Folder Locker.exe
+G:\資料\C語言編輯器\新文件\Folder Locker\Folder Locker\obj\Debug\Folder Locker.pdb
+G:\資料\C語言編輯器\新文件\Folder Locker\Folder Locker\bin\Debug\Folder Locker.exe
+G:\資料\C語言編輯器\新文件\Folder Locker\Folder Locker\bin\Debug\Folder Locker.pdb
+G:\資料\C語言編輯器\新文件\Folder Locker\Folder Locker\obj\Debug\Folder Locker.csprojResolveAssemblyReference.cache
+G:\資料\C語言編輯器\新文件\Folder Locker\Folder Locker\obj\Debug\Folder_Locker.Form1.resources
+G:\資料\C語言編輯器\新文件\Folder Locker\Folder Locker\obj\Debug\Folder_Locker.Properties.Resources.resources
+G:\資料\C語言編輯器\新文件\Folder Locker\Folder Locker\obj\Debug\Folder Locker.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\Folder Locker\Folder Locker\obj\Debug\Folder Locker.exe
+C:\Users\user\Desktop\Folder Locker\Folder Locker\obj\Debug\Folder Locker.pdb
+C:\Users\user\Desktop\Folder Locker\Folder Locker\bin\Debug\Folder Locker.exe
+C:\Users\user\Desktop\Folder Locker\Folder Locker\bin\Debug\Folder Locker.pdb
+C:\Users\user\Desktop\Folder Locker\Folder Locker\obj\Debug\Folder Locker.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\Folder Locker\Folder Locker\obj\Debug\Folder_Locker.Form1.resources
+C:\Users\user\Desktop\Folder Locker\Folder Locker\obj\Debug\Folder_Locker.Properties.Resources.resources
+C:\Users\user\Desktop\Folder Locker\Folder Locker\obj\Debug\Folder Locker.csproj.GenerateResource.Cache
+H:\資料\C語言編輯器\新文件\Folder Locker\Folder Locker\obj\Debug\Folder Locker.exe
+H:\資料\C語言編輯器\新文件\Folder Locker\Folder Locker\obj\Debug\Folder Locker.pdb
+H:\資料\C語言編輯器\新文件\Folder Locker\Folder Locker\obj\Debug\Folder Locker.csprojResolveAssemblyReference.cache
+H:\資料\C語言編輯器\新文件\Folder Locker\Folder Locker\obj\Debug\Folder_Locker.Form1.resources
+H:\資料\C語言編輯器\新文件\Folder Locker\Folder Locker\obj\Debug\Folder_Locker.Properties.Resources.resources
+H:\資料\C語言編輯器\新文件\Folder Locker\Folder Locker\obj\Debug\Folder Locker.csproj.GenerateResource.Cache
+H:\資料\C語言編輯器\新文件\Folder Locker\Folder Locker\bin\Debug\Folder Locker.exe
+H:\資料\C語言編輯器\新文件\Folder Locker\Folder Locker\bin\Debug\Folder Locker.pdb
+F:\資料\C語言編輯器\新文件\Folder Locker\Folder Locker\obj\Debug\Folder Locker.exe
+F:\資料\C語言編輯器\新文件\Folder Locker\Folder Locker\obj\Debug\Folder Locker.pdb
+F:\資料\C語言編輯器\新文件\Folder Locker\Folder Locker\bin\Debug\Folder Locker.exe.config
+F:\資料\C語言編輯器\新文件\Folder Locker\Folder Locker\bin\Debug\Folder Locker.exe
+F:\資料\C語言編輯器\新文件\Folder Locker\Folder Locker\bin\Debug\Folder Locker.pdb
+F:\資料\C語言編輯器\新文件\Folder Locker\Folder Locker\obj\Debug\Folder Locker.csprojResolveAssemblyReference.cache
+F:\資料\C語言編輯器\新文件\Folder Locker\Folder Locker\obj\Debug\Folder_Locker.Form1.resources
+F:\資料\C語言編輯器\新文件\Folder Locker\Folder Locker\obj\Debug\Folder_Locker.Properties.Resources.resources
+F:\資料\C語言編輯器\新文件\Folder Locker\Folder Locker\obj\Debug\Folder Locker.csproj.GenerateResource.Cache
+G:\資料\C語言編輯器\新文件\Folder Locker\Folder Locker\bin\Debug\Folder Locker.exe.config
+M:\資料\C語言編輯器\新文件\Folder Locker\Folder Locker\bin\Debug\Folder Locker.exe.config
+M:\資料\C語言編輯器\新文件\Folder Locker\Folder Locker\obj\Debug\Folder Locker.exe
+M:\資料\C語言編輯器\新文件\Folder Locker\Folder Locker\obj\Debug\Folder Locker.pdb
+K:\資料\C語言編輯器\新文件\Folder Locker\Folder Locker\bin\Debug\Folder Locker.exe.config
+K:\資料\C語言編輯器\新文件\Folder Locker\Folder Locker\obj\Debug\Folder Locker.exe
+K:\資料\C語言編輯器\新文件\Folder Locker\Folder Locker\obj\Debug\Folder Locker.pdb
